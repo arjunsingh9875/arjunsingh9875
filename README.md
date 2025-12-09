@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on a startup<br>I'm looking to collaborate with a  ai startup <br>I'm looking for help to gain knowledge in Ai<br>I'm currently learning <br>Ask me about python <br>Fun fact I even play football
+I'm currently working on a startup<br>I'm looking to collaborate with an ai startup <br>I'm looking for help to gain knowledge in Ai<br>I'm currently learning <br>Ask me about python <br>Fun fact I even play football
 
 
 ## 🌐 Socials:
